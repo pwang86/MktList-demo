@@ -4,3 +4,12 @@ body {
     font-size: 16px;
     font-family: Verdana, Arial, Helvetica, sans-serif;;
 }
+
+.light-white {
+    background-color: #F8F8F8;
+    width: 100%;
+}
+
+.content-border {
+    border-bottom: 15px solid #fff;
+}
