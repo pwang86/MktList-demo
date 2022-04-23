@@ -21,3 +21,7 @@ body {
     border-bottom: 15px solid #fff;
 }
 
+.mk-footer {
+    height: 60px;
+    line-height: 60px;
+}
