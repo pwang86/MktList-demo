@@ -32,3 +32,9 @@ body {
     height: 60px;
     line-height: 60px;
 }
+
+@media (min-width: 800px) {
+    .mk-left {
+        order: -1;
+    }
+}
